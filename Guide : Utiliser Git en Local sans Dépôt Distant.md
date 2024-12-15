@@ -103,3 +103,4 @@ En suivant ces étapes, vous pouvez utiliser Git pour gérer les versions de vos
 ---
 🎉 **Bon codage !**
 
+![image](https://github.com/user-attachments/assets/02f996b5-2626-4e30-b155-855a73807cc8)
