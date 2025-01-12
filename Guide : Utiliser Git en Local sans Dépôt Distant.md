@@ -46,6 +46,12 @@ git status
 git commit -m "Message descriptif du commit"
 ```
 
+ 3. Pour recouperer un ancien version :
+
+```bash
+git log
+git checkout <commit ID>
+```
 ## 🌿 Étape 6 : Gérer les Branches (Optionnel)
 - Créer une nouvelle branche :
 
