@@ -52,6 +52,14 @@ git commit -m "Message descriptif du commit"
 git log
 git checkout <commit ID>
 ```
+ 3. Pour revenir à une ancienne version on peut aussi faire un switch:
+
+```bash
+git log
+git switch <nom de la branche>
+```
+:eyes: Attention si la branche est detachée régler le problème
+
 ## 🌿 Étape 6 : Gérer les Branches (Optionnel)
 - Créer une nouvelle branche :
 
