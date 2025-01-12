@@ -46,7 +46,7 @@ git status
 git commit -m "Message descriptif du commit"
 ```
 
- 3. Pour recouperer un ancien version :
+ 3. Pour récupérer une ancienne version :
 
 ```bash
 git log
