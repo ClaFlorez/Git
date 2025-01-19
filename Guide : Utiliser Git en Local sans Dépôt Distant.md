@@ -38,6 +38,9 @@ git add <nom_du_fichier>
 
 ```bash
 git status
+
+git status --short 
+
 ```
 
 2. Confirmez les modifications avec un message descriptif :
