@@ -122,7 +122,12 @@ Félicitations ! 🎊 Vous avez réussi votre premier git push. Votre code est m
 - Utile pour voir ce qui serait poussé.
 - Exemple : `git push --dry-run origin main`
 
-### git pull origin main
+
+🚨 **Important !** Un bon message de commit est crucial pour comprendre l'historique du projet.
+
+### 3. 🔄 Git Pull
+
+Avant de faire un push, c'est une bonne pratique de faire un pull pour s'assurer d'avoir la dernière version du dépôt :
 
 faire cette instructions parce que ça peut arriver que le fichier distant contient du contenu different à la version qu'on a sur notre dossier local.
 
