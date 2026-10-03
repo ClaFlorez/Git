@@ -1,4 +1,4 @@
-# Git et GitHub — initiation pour le cours au Collège CDI
+# Git et GitHub — initiation 
 
 Ce guide présente le contrôle de versions depuis zéro, avec des exercices pour Windows et PowerShell. Exécutez les exercices dans un dossier distinct, `pratique-git-cdi`, pour préserver vos travaux de cours.
 
@@ -22,6 +22,7 @@ Git conserve l’historique d’un projet sur votre ordinateur. GitHub héberge 
 ## 2. Installer et configurer Git
 
 Installez Git depuis https://git-scm.com/downloads et créez un compte sur https://github.com. Rouvrez PowerShell après l’installation.
+L’installation de Git ne se fait qu’une seule fois par ordinateur. Vous devrez le réinstaller si vous changez d’ordinateur ou si vous le formatez. Votre compte GitHub reste le même : vous n’avez pas besoin d’en créer un nouveau.
 
 ```powershell
 git --version
